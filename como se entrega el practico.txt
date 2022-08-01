@@ -1,0 +1,35 @@
+Evento de curso
+¡Hola!
+
+Te damos nuestras felicitaciones por el esfuerzo, la dedicación y la tenacidad que has puesto para finalizar el Portfolio Web Full Stack. 
+
+En esta sección tendrás que entregar las URL's de GitHub (Front End y Back End) para que puedan ser evaluadas las funcionalidades del proyecto.
+
+Tené presente que podrás realizar la entrega como fecha límite el día 31 de julio de 2022.
+
+ ¿Qué debo entregar?
+
+Más abajo, al hacer clic en el botón "Agregar entrega" encontrarás 4 cajas de texto en las que deberás copiar las URL's de tu proyecto.
+
+Te damos los detalles a continuación:
+
+1)  URL del Repo GitHub del Front End: En esta caja de texto deberás copiar la URL del repositorio o rama de GitHub creada y utilizada para el Front End para hacer el deploy en Firebase o HEROKU. Revisaremos el proyecto Front en tu repositorio para ser evaluado.
+
+2)  URL del Repo GitHub del Back End: En esta caja de texto deberás copiar la URL del repositorio o rama de GitHub del Back End creada y utilizada para hacer el deploy en HEROKU. Revisaremos el proyecto Front en tu repositorio para ser evaluado.
+
+3) URL Portfolio Front End (Firebase): En esta caja de texto deberás copiar la URL de Firebase donde está funcionando la capa de Front End del Portfolio Web. Revisaremos que el Front, validamos usuario y clave funcionen para para ser evaluado.
+
+4)  URL de APIs Back End (HEROKU): En esta caja de texto deberás copiar la URL de HEROKU donde funciona la APIs de la capa Back End del Portfolio Web para ser evaluado.
+
+5) En este espacio deberás colocar tu usuario y clave de acceso del portfolio para ser evaluado: Asegúrate que el usuario y clave de acceso sean correctos.
+
+
+
+Una vez terminada la carga deberás hacer clic en el botón “Guardar”. 
+
+¡ ¡ ¡ IMPORTANTE TENER PRESENTE ! ! !
+
+Es muy importante recordar que en las 4 cajas de texto las URL's a copiar deben ser todas distintas, es decir, no acepta URL “repetida” o una que ya fue entregada. En ese caso, el sistema no permitirá el avance.
+Asegurate antes de hacer la entrega que las URL están funcionando correctamente, también que el usuario y clave de acceso funcione.
+#YoProgramo
+Agregar entrega
